@@ -1,4 +1,4 @@
-# 🎓 Predicción de notas
+#  Predicción de notas
 
 App de Machine Learning que predice la nota final de estudiantes.
 
